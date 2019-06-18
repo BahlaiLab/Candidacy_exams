@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/Tara_Smith_(scientist)
 
 1. Some authors treat ecosystem services and functions as very different things, and others use the terms almost interchanagbly. What do you think? As you did your readings, did you notice any patterns in how different authors used the terminology?
 
-2. I thought it was interesting that you used sandstone filtering pollutants out of water as an example of a provisioning function. As an organismal person, I usually think of biotic examples first. So this got me thinking- are abiotic processes ecosystem functions, or would you classify them ab geochemical processes? or are they both? Is there a difference?
+2. I thought it was interesting that you used sandstone filtering pollutants out of water as an example of a provisioning function. As an organismal person, I usually think of biotic examples first. So this got me thinking- are abiotic processes ecosystem functions, or would you classify them as geochemical processes? or are they both? Is there a difference?
 
 3. You mentioned that ecosystem functions 'maintain quality and viability ' of an ecosystem and I want to dig into that a bit- what do you mean by 'quality'? What about 'viability'? Are there processes and functions that can undermine quality and viability?
 
