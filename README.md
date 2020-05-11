@@ -26,3 +26,32 @@ https://en.wikipedia.org/wiki/Tara_Smith_(scientist)
 5. What are the ecosystem functions and services that you study in your work? Are any of them synergistic? Are there tradeoffs between any of the ecosystem services within your study system?
 
 6. Say you had unlimited resources- time, money, technology- how would that change your research plan? And once you're done your study, given all this knowledge and power- what would you manipulate in your system to restore it to its ideal function?
+
+
+## Student 2
+*Student specializes in ecosystem services, insect functional ecology, biodiversity and habitat structure. Student elected to do a 'proposal style' candidacy exam and wrote a proposal based on NSF's (now defunct) GRFP guidelines. Proposal examined landscape and environmental drivers of dispersal patterns of two different groups of pollinating insects in small cities. These questions were asked during the oral defense of this proposal*
+
+1. Why study small cities? From both an ecological and human perspective?
+
+2. If NSF decided to fund this project but cut out the budget for all the materials, what would you do? Are there different (lower tech, cheaper?) experimental techniques you could use?
+
+3. Why is dispersal important? Why not just study resident organisms?
+
+4. Say you find a positive relationship with impervious surface and number of syrphids in Bowling Green, but a negative relationship in Kent. What does this mean? What would you do to reconcile the two apparently opposing patterns?
+
+5. Do you think cities are important for conservation of rare species? What about ecosystem services? Are there tradeoffs between rare species conservation and ecosystem services?
+
+6. What is a disturbance? What is the intermediate disturbance hypothesis?
+
+7. Why do you think syrphids might respond less negatively to disturbance than bees?
+
+8. Why are species with lower dispersal ability more vulnerable in fragmented habitats?
+
+9. What scale will you measure NDVI and impervious surface at? Why not another scale?
+
+10. I know there’s a space limitation, but I’d like to see the collection methods for measuring dispersal developed more. How far away would you go? How many sites would you collect from? How would you consider directionality in the model? How would you calibrate- so say flying a certain distance makes the protein ‘wear off’ more- is there a way of quantifying the marking or is it presence/absence?
+
+11. Why would specialists have lower dispersal ability?
+
+12. Does the presence of insect DNA on a flower measure the flower’s attractiveness? How would you measure attractiveness?
+
