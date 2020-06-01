@@ -55,3 +55,39 @@ https://en.wikipedia.org/wiki/Tara_Smith_(scientist)
 
 12. Does the presence of insect DNA on a flower measure the flower’s attractiveness? How would you measure attractiveness?
 
+
+## Student 3
+*Student specializes in trophic interactions, grazing manmmals, foraging theory and habitat structure. Student elected to do a 'proposal style' candidacy exam and wrote a proposal based on NSF's (now defunct) GRFP guidelines. Proposal examined sompetitive interactions between bighorn sheep and mountaing goats under changing ranges in the Rocky Mountains.  These questions were asked during the oral defense of this proposal*
+
+1.	You used the terms introduced, non-native, and invader. What do each of these terms mean? Are these terms interchangeable?
+
+2.	What affects niche partitioning? How do you decide which traits are associated with niche partitioning, and which traits are simply natural variation? Is there a way to test this?
+
+3.	You focused a lot on the competition aspects of invasion- so the impacts of a new species on a functionally similar species occupying that niche. What other effects might a new species have in the environment?
+
+4.	What is an optimal habitat? 
+
+5.	Where do you expect competition to occur between these two species? Why? Would measuring the reproductive success of females and the mortality of young get at each of these factors? What other fitness measures might be affected? If you had more money and time, what other things would you measure?
+
+6.	There was a bit of hand-waving in the broader impacts that I’d like to see developed- who are the local cultures that hunt these animals? How will your work help them?
+
+7.	Would mountain goat range expansion have happened without human activities?
+
+8.	This is sort of a bigger philosophical question. At one point you wrote: “I shall also analyze if competition is in fact a mechanism through which mountain goats are negatively affecting bighorn-sheep populations.” So what do you mean by “a mechanism?” how strong does an effect need to be for it to count? What if there are other things going on?
+
+9.	Can you explain your conceptual figure more? What predictions are you making?
+
+10.	You used the phrase “Threat of competition”- what does that mean? How does it differ from “competition”? Could you design an experiment to discern between competition and the threat of competition?
+
+11.	So let’s talk a bit about population viability analysis- you mention that this family of approaches generally requires ‘precise variables that are species specific’- how much variation is tolerable? How do you decide what information to include in a model like this? Say you had two values from the literature- let’s say it’s fecundity per female. One study of 1200 individuals found 3+/-4 offspring per female, another study of 13 individuals found 4+/-0.2 offspring per female. Which value would you use in your model? How would using each change your model’s predictions?
+
+12.	You mention numerous benefits of using long-term data to characterize natural variation in the community. What about space-for-time substitutions? Can you use spatial variation to get the information you need?
+
+13.	Why will you resample your data for your G-test on behavioral interactions?
+
+14.	What kind of music will be playing when you jump out of your helicopter to wrestle a mountain goat?
+
+15.	So this is a big project. With a big budget. What approach would you take if NSF said YES, do it, but we can only give you $10,000? Would you blow it all on one helicopter ride?
+
+16.	You’ll consider undergraduates from all backgrounds as field assistants, but will you make any specific efforts to recruit under-represented minorities? How?
+
