@@ -57,7 +57,7 @@ https://en.wikipedia.org/wiki/Tara_Smith_(scientist)
 
 
 ## Student 3
-*Student specializes in trophic interactions, grazing manmmals, foraging theory and habitat structure. Student elected to do a 'proposal style' candidacy exam and wrote a proposal based on NSF's (now defunct) GRFP guidelines. Proposal examined sompetitive interactions between bighorn sheep and mountaing goats under changing ranges in the Rocky Mountains.  These questions were asked during the oral defense of this proposal*
+*Student specializes in trophic interactions, grazing mammals, foraging theory and habitat structure. Student elected to do a 'proposal style' candidacy exam and wrote a proposal based on NSF's (now defunct) GRFP guidelines. Proposal examined sompetitive interactions between bighorn sheep and mountaing goats under changing ranges in the Rocky Mountains.  These questions were asked during the oral defense of this proposal*
 
 1.	You used the terms introduced, non-native, and invader. What do each of these terms mean? Are these terms interchangeable?
 
