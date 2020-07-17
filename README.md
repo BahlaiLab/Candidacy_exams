@@ -11,7 +11,8 @@ Archive of questions asked by Dr. Bahlai for PhD Candidacy exams
 2. In your assigned readings, we’ve focused on the work of a single scientist, Dr. Elena Bennett, as a way to illustrate how a scientist’s research program can arise around a set of related questions. What is/are the core question(s) driving Dr. Bennett’s research program? For each of the six papers I assigned you, outline the paper’s main questions/objectives, its core findings or conclusions, and discuss how this fits into Dr. Bennett’s core research direction. Do you think Dr. Bennett’s core research program has changed over time? Why or why not?
 
 3. Despite being one of the most prominent thinkers on the concepts of biodiversity drivers of ecosystem function and ecosystem service of our time, Dr. Elena Bennett of McGill University does not yet have a Wikipedia page. Given what you know now about the field and Dr. Bennett’s work, write a brief Wikipedia article. You can use this article, on prominent Kent State epidemiologist Tara Smith, as a template or as inspiration:
-https://en.wikipedia.org/wiki/Tara_Smith_(scientist)
+https://en.wikipedia.org/wiki/Tara_Smith_(scientist)  
+*Update: A wikipedia page for Dr. Bennett was created by another user a couple months after this exam in September 2019- guess this was on a few people's minds :) *
 
 ### Oral Exam Questions
 
