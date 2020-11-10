@@ -93,3 +93,28 @@ Archive of questions asked by Dr. Bahlai for PhD Candidacy exams
 
 16.	You’ll consider undergraduates from all backgrounds as field assistants, but will you make any specific efforts to recruit under-represented minorities? How?
 
+## Student 4
+*Student specializes in distribution, abundance, phenology and natural history of odonates, the dragonflies and damselflies. For their classic style exam, I focuses on quantiative ecology and biodiversity data science. I provided eight papers in issues adjacent to their direct research areas and for the student's written assignment, they wrote in-depth reflections of each. The questioning focussed on probing some of the statements made in these reflections, integrating some of the new information with current events*
+
+1. The Beck paper discussed spatial biases in species distribution data in the GBIF database. Where does GBIF data come from? Why do you think they focused on one butterfly species? Do you think they would have had a different result if they used another taxon? What taxa do you think are most likely to lead to different conclusions?
+
+2. I’m currently working with some colleagues on the distribution of ladybeetle species in Ohio over the last century. We’re using all the Ohio-geolocated data from museums in Ohio and adjacent states. What biases should I be looking for? Can you make any predictions about the distribution of the raw data? What sort of corrections should I think about when trying to map the relative distribution of these ladybeetle species?
+
+3. In the Termaat paper, they found that dragonfly species generally increased, rather than decreased their ranges over the last 30 years. Let’s talk about that in the context of the (Hutchinsonian) niche concept- did the niche of these dragonflies change? What about the minority of species that conserved their range- did their niches change?
+How does the concept of species range differ from the concept of a species’ niche?
+
+4. You noted in your answer to the Richter paper prompt that the phenology of their focal dragonfly taxa seemed to respond to both photoperiod and temperature cues. What biological reason might a species’ phenology respond to photoperiod? What about temperature? How would you design an experiment to tease out the relative importance of these two cues? What would you need to do that work? I liked your comment about egg-overwintering vs niad-overwintering odonates- do you have any predictions about how taxa employing each of those life history strategies might respond?
+
+5. The Reutter paper explored habitat suitability for three European mice species using museum specimens. My main question here is how did their approach differ for this vertebrate problem compared to the invertebrate distribution models you’re more focused on? You also had an interesting question about how the timescales of the museum data used affect the outcome- can you explain this a bit more? Why might this be a factor to consider?
+
+6. The Araujo (2006) and Dormann (2018) papers are conceptually very similar- but Dormann was written 12 years later and doesn’t, in fact, cite the Araujo paper.  Was this an oversight? Should Dormann have cited Arajuo?
+
+7. About 10 years ago the concept of including biotic interactions in species distribution models really started hitting the literature hard. Why was that? So, for example, the Wisz article was one of the big position pieces that came out on this subject. What do they mean by “biotic interaction” and why are they important?  I personally became aware of the ‘biotic interaction’ issue when a bioclimatic envelope model paper came out that warned of potential future distributions of soybean aphid in the Canadian prairies. Can you speculate about what made me skeptical about that paper?
+
+8. Your question for the authors on the Wisz paper pointed to the intensive data needs for incorporating biotic interaction in species distribution modelling. But what role do you think systemic expertise plays in this? Basically- what role do domain experts play in the development of these models? What roles do modellers play?
+
+9. The Flenner paper explored the idea of community change in terms of environmental drivers, and your question to the authors was excellent. Do you think their approach to their analysis was appropriate? Should Anisopterans be modeled differently,  with regards to scale and specific variables, than zygopterans? Why or why not?
+
+10. I just want to talk about the Araujo and Naimi preprint. Wow, eh? But also, are there biological reasons why their results might be at best, hasty?
+
+
